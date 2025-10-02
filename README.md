@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on GWI as a Data Science Team Lead.
+- 🔭 I’m currently working on GWI as an ML Manager.
 - 🌱 I’m currently learning bits and bobs around LLMs and agents.
 - 💬 Ask me about data and software.
 - 📫 How to reach me: georgakd@gmail.com or dgeorgakaki@gwi.com
